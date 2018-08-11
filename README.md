@@ -1,6 +1,6 @@
 # softex_test
 
-> A Vue.js project
+> My small Vue project
 
 ## Build Setup
 
